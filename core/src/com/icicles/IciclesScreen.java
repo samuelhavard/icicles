@@ -42,11 +42,7 @@ public class IciclesScreen implements Screen {
     public void resize(int width, int height) {
         iciclesViewport.update(width ,height, true);
     }
-
-    @Override
-    public void pause() {
-
-    }
+    
 
     @Override
     public void resume() {
