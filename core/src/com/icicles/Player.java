@@ -21,10 +21,4 @@ public class Player {
     }
 
     public void Renderer(ShapeRenderer renderer) {
-        renderer.setColor(Constants.PLAYER_COLOR);
-    }
-
-
-
-
-}
+        renderer.setColor(Constants.PLAYER_
